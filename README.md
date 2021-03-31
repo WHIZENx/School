@@ -1,10 +1,13 @@
 # School Management System
-> ### *204321 [Database System] Project Chiang Mai University Computer Science 2020*
+> ### *204362 [Object-Oriented Design] Project Chiang Mai University Computer Science 2020*
 
-School Management System เป็นโปรเจคที่กลุ่มนักศึกษามหาวิทยาลัยเชียงใหม่ชั้นปีที่ 3 ปีการศึกษา 2563 ทำขึ้นมาใน รายวิชา 204321 [Database System]
+School Management System เป็นโปรเจคที่กลุ่มนักศึกษามหาวิทยาลัยเชียงใหม่ชั้นปีที่ 3 ปีการศึกษา 2563 ทำขึ้นมาใน รายวิชา 204362 [Object-Oriented Design]
 เป็นเว็บระบบจัดการโรงเรียน โดยเป็นส่วน Back-End ของระบบโรงเรียน มีการจัดการ นักเรียน, คุณครู, วิชา, ตารางเรียน, เกรด
 
-> เว็บนี้ใช้ฐานข้อมูล SQL with Xampp
+> เว็บนี้ใช้ระบบ Docker ในการทำงาน โดยมี container ดังนี้
+> - PHP
+> - Database
+> - Mysql
 
 - Main Interface
 
